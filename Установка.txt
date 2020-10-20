@@ -1,0 +1,4 @@
+1. Установка интерпритатора (Python.org)
+2. Установка Atom (Atom.io)
+3. settings -> install packages -> autocomplite python
+4. win + R -> cmd -> pip install pyTelegramBotAPI
